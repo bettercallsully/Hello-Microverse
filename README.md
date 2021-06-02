@@ -44,8 +44,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@bettercallsully(https://github.com/bettercallsully)
-- Twitter: [@bettrcallsully(https://twitter.com/bettrcallsully)
+- GitHub: [@bettercallsully](https://github.com/bettercallsully)
+- Twitter: [@bettrcallsully](https://twitter.com/bettrcallsully)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/solomonelkelani)
 
 ## 🤝 Contributing
